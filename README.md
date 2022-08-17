@@ -1,3 +1,3 @@
-# Translator
+# Quick Ping
 
-Is a code made using scratch using the text to speach and translate extension. This is a free software that aims to help those in a new environment to have basic knowledge about the pronunciation.
+This python developed software allows you to enter basic information for a reminder. You are able to enter the date and time of the reminder with the subject of choice. The application will send you a notification at the given time.
